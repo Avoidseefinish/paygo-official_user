@@ -4,11 +4,11 @@ import { ArrowLeft, Share, ExternalLink } from 'lucide-react';
 
 const EarnMore = ({ onBack }: { onBack: () => void }) => {
   const handleStartReferring = () => {
-    window.open('https://paygo-financial-pro-25.vercel.app', '_blank');
+    window.open('https://paygo-officialuser.vercel.app/', '_blank');
   };
 
   const handleSignUpNow = () => {
-    window.open('https://bluepay-28.vercel.app', '_blank');
+    window.open('https://paygo-officialuser.vercel.app/', '_blank');
   };
 
   return (
@@ -46,12 +46,12 @@ const EarnMore = ({ onBack }: { onBack: () => void }) => {
           </Button>
         </div>
 
-        {/* BluePay Pro Section */}
+        {/* Paygo Pro Section */}
         <div className="bg-white rounded-lg p-6 text-center">
-          <h2 className="text-3xl font-bold text-purple-600 mb-6">BluePay Pro</h2>
+          <h2 className="text-3xl font-bold text-purple-600 mb-6">Paygo Pro</h2>
           
           <p className="text-gray-800 text-lg mb-4">
-            Take your earnings to the next level with BluePay Pro.
+            Take your earnings to the next level with Paygo Pro.
           </p>
           
           <p className="text-gray-600 mb-4">
