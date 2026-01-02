@@ -21,7 +21,7 @@ const QuickActions = ({ onNavigate }: QuickActionsProps) => {
     { 
       icon: <div className="w-6 h-6 bg-blue-500 rounded flex items-center justify-center text-xs">📺</div>, 
       label: "Watch",
-      action: () => window.open('https://bluepay-28.vercel.app', '_blank')
+      action: () => window.open('https://youtu.be/qXXUY4aepQw?si=4JLUArpiEa4Bizu1', '_blank')
     },
     { 
       icon: <div className="w-6 h-6 bg-green-500 rounded flex items-center justify-center text-xs">📊</div>, 
