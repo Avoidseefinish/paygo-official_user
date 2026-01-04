@@ -4,7 +4,7 @@ import { ArrowLeft, MessageCircle } from 'lucide-react';
 
 const Support = ({ onBack }: { onBack: () => void }) => {
   const handleWhatsAppChat = () => {
-    window.open('https://wa.me/message/CKFDSQZYCBOZH1', '_blank');
+    window.open('https://wa.me/message/DCRW6DKGNU7ZL1', '_blank');
   };
 
   const handleLiveChat = () => {
